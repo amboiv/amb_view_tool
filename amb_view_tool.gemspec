@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various recurring view specific methods for my application.}
   spec.description   = %q{Methods for generating often used HTML lines.}
-  spec.homepage      = "TODO: Create public repo."
+  spec.homepage      = "https://github.com/amboiv/amb_view_tool"
   spec.license       = "MIT"
 
 
